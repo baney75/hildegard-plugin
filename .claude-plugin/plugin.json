@@ -1,0 +1,27 @@
+{
+  "name": "hildegard-craft",
+  "version": "0.1.17",
+  "description": "Craft skills for serious creative work: writing, web and interface design, photo and video editing, recording cleanup, 3D models and parts to print drawn in code, and a make, check, refine loop. Instructions only.",
+  "author": {
+    "name": "Donovan Baney",
+    "url": "https://github.com/baney75"
+  },
+  "homepage": "https://dbaney.com/hildegard/",
+  "repository": "https://github.com/baney75/hildegard-plugin",
+  "license": "AGPL-3.0-only",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/baney75/hildegard/blob/main/docs/chatbots.md",
+  "supportUrl": "https://github.com/baney75/hildegard/issues",
+  "privacyPolicyUrl": "https://dbaney.com/hildegard/privacy/",
+  "termsOfServiceUrl": "https://dbaney.com/hildegard/terms/",
+  "keywords": [
+    "craft",
+    "writing",
+    "web-design",
+    "video-editing",
+    "photo-editing",
+    "3d-printing",
+    "openscad",
+    "design"
+  ]
+}

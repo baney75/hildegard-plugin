@@ -1,0 +1,19 @@
+{
+  "name": "hildegard-craft",
+  "owner": {
+    "name": "Donovan Baney",
+    "url": "https://github.com/baney75"
+  },
+  "metadata": {
+    "description": "Hildegard’s craft skills for Claude, skills only."
+  },
+  "plugins": [
+    {
+      "name": "hildegard-craft",
+      "source": "./",
+      "description": "Craft skills for serious creative work: writing, web and interface design, photo and video editing, recording cleanup, 3D models and parts to print drawn in code, and a make, check, refine loop. Instructions only.",
+      "category": "creative",
+      "homepage": "https://dbaney.com/hildegard/"
+    }
+  ]
+}
